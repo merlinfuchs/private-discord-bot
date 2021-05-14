@@ -1,0 +1,13 @@
+name = "private-discord-bot"
+type = "javascript"
+
+account_id = "42459c568b12d0902eeac887235b0c41"
+workers_dev = false
+route = "xenon.bot/staging/auth*"
+zone_id = "ba040eb427d023e4a612b0dd32e84fca"
+
+kv_namespaces = [
+         { binding = "KV", id = "5a019c601a9d4648aaad2c3788c07229" }
+]
+
+vars = { CLIENT_ID = "", CLIENT_SECRET = "", REDIRECT_URI = "" }
