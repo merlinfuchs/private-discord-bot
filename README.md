@@ -1,4 +1,4 @@
-# 👷 `worker-template` Hello World
+# 👷 `private-discord-bot`
 
 A Cloudflare worker that performs the Oauth2 code grant based on the server id
 
